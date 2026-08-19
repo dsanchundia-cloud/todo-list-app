@@ -12,9 +12,9 @@ Aplicación web sencilla de "Lista de Tareas" hecha con HTML, CSS y JavaScript p
 
 | ID | Historia de Usuario | Prioridad | Puntos | Estado |
 |----|---|---|---|---|
-| HU-01 | Como usuario quiero agregar una nueva tarea para registrar pendientes. | Alta | 3 | ✅ Done |
-| HU-02 | Como usuario quiero marcar una tarea como completada para ver mi progreso. | Alta | 2 | ✅ Done |
-| HU-03 | Como usuario quiero eliminar una tarea para quitar pendientes ya no vigentes. | Alta | 2 | ✅ Done |
+| HU-01 | Como usuario quiero agregar una nueva tarea para registrar pendientes. | Alta | 3 | LISTO |
+| HU-02 | Como usuario quiero marcar una tarea como completada para ver mi progreso. | Alta | 2 | LISTO |
+| HU-03 | Como usuario quiero eliminar una tarea para quitar pendientes ya no vigentes. | Alta | 2 | LISTO |
 
 > HU-04 (editar tarea) y HU-05 (filtrar tareas) quedan pendientes para un futuro Sprint 2.
 
@@ -56,13 +56,13 @@ Checklist de revisión del incremento:
 ## Sprint Retrospective
 
 **Start** (empezar a hacer):
-> _[Escribe aquí qué práctica nueva incorporarías en el próximo sprint]_
+> _[habilidades del software]_
 
 **Stop** (dejar de hacer):
-> _[Escribe aquí qué te hizo perder tiempo y deberías evitar]_
+> _[El paso 5 se me complico]_
 
 **Continue** (seguir haciendo):
-> _[Escribe aquí qué funcionó bien y quieres mantener]_
+> _[Los sprint]_
 
 ## Cómo ejecutar el proyecto
 
