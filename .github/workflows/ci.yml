@@ -1,5 +1,4 @@
-@"
-name: CI Basico
+﻿name: CI Basico
 on: [push]
 jobs:
   verificar-archivos:
@@ -12,4 +11,3 @@ jobs:
           test -f style.css
           test -f script.js
           echo "Todos los archivos requeridos estan presentes."
-"@ | Out-File -Encoding utf8 .github\workflows\ci.yml
