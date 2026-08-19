@@ -34,13 +34,16 @@ Aplicación web sencilla de "Lista de Tareas" hecha con HTML, CSS y JavaScript p
 ## Capturas
 
 ### Tablero SCRUM (final del Sprint 1)
-> _[Inserta aquí la captura del tablero con las historias en "Done"]_
+> _[<img width="1877" height="860" alt="Captura de pantalla 2026-08-19 131244" src="https://github.com/user-attachments/assets/37f5191e-d4a7-4be2-ac12-1c565434af69" />
+"]_
 
 ### Burndown Chart
-> _[Inserta aquí la captura del burndown chart de Jira]_
+> _[<img width="1522" height="775" alt="WhatsApp Image 2026-08-19 at 13 05 48" src="https://github.com/user-attachments/assets/d22561ab-52d0-4480-a109-e6b4e3ba0704" />
+]_
 
 ### Ejecución del pipeline de CI (GitHub Actions)
-> _[Inserta aquí la captura de la pestaña "Actions" con el workflow en verde ✅]_
+> _[<img width="1901" height="881" alt="image" src="https://github.com/user-attachments/assets/50f98484-1ec1-4d96-ba8c-74525d715de3" />
+
 
 ## Sprint Review
 
